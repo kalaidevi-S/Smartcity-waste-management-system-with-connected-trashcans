@@ -15,9 +15,10 @@
 # IBM-Project-35221-1660282887
   </div> 
   
+  <div align="center">
   
-  
- # **Smart Waste Management System For Metropolitan Cities**
+ # **Smart Waste Management System For Metropolitan Cities**      
+   </div> 
 
 TECHNOLOGY : IOT        
 TEAM ID : PNT2022TMID48488     
