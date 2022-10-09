@@ -4,5 +4,5 @@
 </button>
 
 2)<button>
-    <a href="https://i.imgur.com/AgjegCs.jpg">TECHNOLOGY ARCHITECTURE</a>
+    <a href="https://i.imgur.com/AgjegCs.jpg">Go To TECHNOLOGY ARCHITECTURE</a>
 </button>
