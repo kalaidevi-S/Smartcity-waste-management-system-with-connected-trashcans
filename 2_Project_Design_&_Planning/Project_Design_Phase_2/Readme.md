@@ -4,5 +4,5 @@
 </button>
 
 2)<button>
-   <a href=" https://www.edrawmax.com/online/share.html?code=3ab9fb9a479911ed9f4f0a54be41f961"> Go to TECHNOLOGY ARCHITECTURE ARCHITECTURE </a>
+   <a href="https://www.edrawmax.com/online/share.html?code=3ab9fb9a479911ed9f4f0a54be41f961"> Go to TECHNOLOGY ARCHITECTURE ARCHITECTURE </a>
 </button>
