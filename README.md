@@ -72,8 +72,10 @@ IBM Cloud,IBM Cloud Object Storage,Python,IBM Watson IoT Platform,Node-RED servi
 
 <button>
     <a href="https://i.imgur.com/AgjegCs.jpg">TECHNOLOGY ARCHITECTURE</a>
-</button>  
- 
+</button>      
+  
+   
+   
    
    
 **Project working video link**          
