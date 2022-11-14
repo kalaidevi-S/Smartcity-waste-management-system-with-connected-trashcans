@@ -34,8 +34,8 @@ SREEJITH KUMAR
 NAVEEN        
 GOGUL      
 ```          
+<a href="https://chettinad.swm5.repl.co" class="button icon search">DUMPSTER_our_website</a>
 
-<a><button name="button" style = "color: red" onclick="https://chettinad.swm5.repl.co/">`Dumpster`Our Project Website</button></a>   
 
 # **📜PROJECT DESCRIPTION:**          
 Garbage level detection in bins.     
