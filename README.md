@@ -28,11 +28,11 @@ https://user-images.githubusercontent.com/77039988/193444961-828072b4-6f8b-417a-
 
 # **👩‍👦TEAM MEMBERS**    
 ```html                      
-<!-- SHREE VIKASH          
+SHREE VIKASH          
 SATHISH KUMAR         
 SREEJITH KUMAR         
 NAVEEN        
-GOGUL       -->
+GOGUL      
 ```          
 <a href="https://chettinad.swm5.repl.co" class="button icon search">DUMPSTER_our_website</a>
 
