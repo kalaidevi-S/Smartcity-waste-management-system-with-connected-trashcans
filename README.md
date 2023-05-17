@@ -28,7 +28,7 @@ https://user-images.githubusercontent.com/77039988/193444961-828072b4-6f8b-417a-
 
 # **👩‍👦TEAM MEMBERS**    
 ```html                      
-SHREE VIKASH          
+Kalai
 SATHISH KUMAR         
 SREEJITH KUMAR         
 NAVEEN        
