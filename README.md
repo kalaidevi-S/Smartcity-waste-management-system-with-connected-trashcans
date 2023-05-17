@@ -17,22 +17,21 @@
   
   <div align="center">
   
- # **Smart Waste Management System For Metropolitan Cities**      
+ # **smart city waste management system with connected trash cans**      
    </div> 
 
 
 TECHNOLOGY : IOT        
-TEAM ID : PNT2022TMID48488     
+TEAM ID : NM2023TMID23158     
 
 https://user-images.githubusercontent.com/77039988/193444961-828072b4-6f8b-417a-9a76-8bc23fe0a6bb.mp4                 
 
 # **👩‍👦TEAM MEMBERS**    
 ```html                      
-Kalai
-SATHISH KUMAR         
-SREEJITH KUMAR         
-NAVEEN        
-GOGUL      
+pavithra
+kalaidevi
+reethika
+priyadharshini
 ```          
 <a href="https://chettinad.swm5.repl.co" class="button icon search">DUMPSTER_our_website</a>
 
